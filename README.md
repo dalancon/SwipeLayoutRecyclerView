@@ -1,5 +1,7 @@
 # SwipeLayoutRecyclerView kotlin实现
 类似qq列表滑动删除的效果，提供行侧滑功能，也提供了兼容的RecyclerView，实现了事件处理
+<img src="https://github.com/dalancon/SwipeLayoutRecyclerView/blob/master/sceenshot.gif" alt="Sample"  width="216" height="384"/>
+
 
 1、可单独使用SwipeLayout
 
