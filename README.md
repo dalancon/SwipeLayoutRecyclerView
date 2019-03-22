@@ -55,4 +55,20 @@
 内部包含两个布局 一个是滑动显示的菜单，一个是内容布局，由于是使用的framelayout实现 所以菜单作为第一个子view 并且 提供android:layout_gravity="right"
 
 
+2、如果要于recyclerview一起使用，请使用提供的SwipeRecylerView，这里面处理了触摸事件 可以实现qq的列表的
+ ```
+ <com.dalancon.swipe.widget.SwipeRecylerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+ ```
+
+
+
+
+
+
+
+
+
 
