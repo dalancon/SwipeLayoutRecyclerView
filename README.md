@@ -62,8 +62,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
  ```
-
-
+其他跟使用recyclerview一样。
 
 
 
