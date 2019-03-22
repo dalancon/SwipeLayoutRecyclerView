@@ -1,0 +1,2 @@
+# SwipeLayoutRecyclerView
+类似qq列表滑动删除的效果，提供行侧滑功能，也提供了兼容的RecyclerView，实现了事件处理
